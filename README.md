@@ -8,7 +8,7 @@ that they can be analysed for any abnormalities and diagnose
 and treat disease. The purpose of
 this project was to develop an automated pneumonia
 diagnosis system using supervised learning that indicates whether a given chest X-ray
-image represents a patient that has pneumonia or not.
+image represents a patient that has pneumonia or not. A detailed write up can be found in the report.
 
 ![Alt text](https://github.com/phantom820/Pneumonia-Detection/blob/master/results/chest_x_ray.png)
 
