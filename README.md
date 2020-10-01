@@ -18,3 +18,14 @@ image represents a patient that has pneumonia or not.
 ### Model perfomance
 The multilayer perceptron is the best perfoming model with a peak accuracy
 of 86.31% followed by the logistic regression model. The confusion matrices are shown below
+
+#### Multilayer perceptron
+![Alt text](https://github.com/phantom820/Pneumonia-Detection/blob/master/results/mp-matrix.png)
+
+#### Logistic regression (gradient descent learning)
+![Alt text](https://github.com/phantom820/Pneumonia-Detection/blob/master/results/lr-c.png)
+![Alt text](https://github.com/phantom820/Pneumonia-Detection/blob/master/results/lr-matrix.png)
+
+#### Logistic regression (genetic algorithm learning)
+![Alt text](https://github.com/phantom820/Pneumonia-Detection/blob/master/results/lr-g-cost.png)
+![Alt text](https://github.com/phantom820/Pneumonia-Detection/blob/master/results/lr-g-matrix.png)
