@@ -10,6 +10,8 @@ this project was to develop an automated pneumonia
 diagnosis system using supervised learning that indicates whether a given chest X-ray
 image represents a patient that has pneumonia or not.
 
+![Alt text](https://github.com/phantom820/Pneumonia-Detection/blob/master/results/chest_x_ray.png)
+
 ### Supervised learning paradigms used
 - k Nearest Neighbours
 - Logistic regression (gradient descent learning and genetic algorithm learning)
